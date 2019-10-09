@@ -53,4 +53,26 @@ Oct 09 04:50:15 ip-172-31-16-179 jenkins[7832]:    ...done.
 Oct 09 04:50:15 ip-172-31-16-179 systemd[1]: Started LSB: Start Jenkins at boot time.
 
 
-** Setup Jenkins **
+**Setup Jenkins**
+
+Go to your Jenkins web interface by using your localhost port 8080 address
+
+> http://localhost:8080
+
+You will see an initial web page
+
+!(/images/screenshot-02.jpg)
+
+Copy the password from the following file and input in the password box
+
+> sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+You will be prompted to install plugins, select 'Install Suggested Plugins.
+
+After the plugins installation is complete, create a new admin user and password.  Remember both username and password for access later.
+
+A page will be shown confirming URL, click on Save and Finish
+
+
+**(Optional) Install Blue Ocean Plugin**
+
