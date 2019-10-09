@@ -61,7 +61,7 @@ Go to your Jenkins web interface by using your localhost port 8080 address
 
 You will see an initial web page
 
-!(/images/screenshot-02.jpg)
+![Jenkins Initial Page](/images/screenshot-02-secure.jpg)
 
 Copy the password from the following file and input in the password box
 
