@@ -76,3 +76,9 @@ A page will be shown confirming URL, click on Save and Finish
 
 **(Optional) Install Blue Ocean Plugin**
 
+Login as admin.  On the left pane window go to Manage Jenkins --> Manage Plugins.
+
+Go to the Available tab and search for Blue Ocean (Blue Ocean Aggregator) and select Install without Restart
+
+Jenkins will install Blue Ocean
+
