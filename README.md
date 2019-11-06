@@ -1,5 +1,9 @@
 # Simple Jenkins Pipeline Setup
-This repository provides simple steps to install Jenkins and Blue Ocean
+This repository provides simple steps to install Jenkins and Blue Ocean on an AWS EC2 instance
+
+***Pre Requisites***
+* Login as AWS root and create a least privilege role for administering Jenkins server
+* Launch an Ubuntu EC2 instance (free-tier ok)
 
 **Ubuntu Install of Jenkins**
 
