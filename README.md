@@ -11,7 +11,7 @@ This repository provides simple steps to install Jenkins and Blue Ocean on an AW
 
 > sudo apt upgrade
 
-> sudo apt install default-jdk
+> sudo apt install -y default-jdk
 
 To take advantage of the latest fixes and features, you can use the project-maintained packages to install Jenkins.
 
